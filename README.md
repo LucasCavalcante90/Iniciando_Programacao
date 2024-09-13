@@ -1,9 +1,15 @@
+*Este projeto é uma demonstração prática desenvolvida durante um curso de Git e GitHub. Trata-se do meu primeiro repositório, criado para aplicar e testar minhas habilidades em Python :snake: e na utilização do GitHub :octocat:. O programa é simples, mas funcional ele realiza sorteios aleatórios de nomes, servindo como um exemplo do meu progresso no aprendizado.*
+
+![image](https://github.com/user-attachments/assets/a117cdf6-d3f1-40f8-9def-7e7b727f88ef)
+
 # Projeto escolha de nomes Aleatorios 
- Primeiro repositório do curso de Git e GitHub
+---
+## O Professor quer sortear um dos seus quatro alunos para apagar o quadro
 
-'''O Professor quer sortear um dos seus quatro alunos para apagar o quadro '''
 
 
+
+```
 print(' 😄 \033[1;33;40m Digite o nome dos Alunos  \033[m 😄  ')
 import random 
 from time import sleep
@@ -25,3 +31,4 @@ print(' O ESCOLHIDO FOI  .... \033[m ')
 sleep(2)
 print('\033[31m ----->    {}  <-----\033[m '.format(escolhido.upper()))
 print('\033[1;32;40m ====> Você foi escolhido para ajudar o professor apagar o quadro 😄😄')
+```
