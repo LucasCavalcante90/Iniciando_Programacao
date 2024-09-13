@@ -1,8 +1,7 @@
 # Projeto escolha de nomes Aleatorios 
  Primeiro repositório do curso de Git e GitHub
 
-'''Um professor quer sortear um dos seus quatro alunos para apagar o quadro,faça um programa que ajude ele, 
-lendo o nome dele dos quatro alunos e escrever o nome do escohido'''
+'''O Professor quer sortear um dos seus quatro alunos para apagar o quadro '''
 
 
 print(' 😄 \033[1;33;40m Digite o nome dos Alunos  \033[m 😄  ')
